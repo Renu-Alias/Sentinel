@@ -1,8 +1,8 @@
 # 🛡️ Sentinel - Real-Time Piracy Detection System
 
 <p align="center">
-  <img src="image1.png" width="400"/>
-  <img src="image2.png" width="300"/>
+  <img src="10.png" width="400"/>
+  <img src="11.png" width="300"/>
 </p>
 
 ---
